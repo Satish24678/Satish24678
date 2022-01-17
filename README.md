@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Satish24678
-- 👀 I’m interested in Web & Android Development. 
-- 🌱 I’m currently learning Web Development(Html & CSS).
-- 💞️ I’m looking to collaborate on anything related to Development.
+- 👀 I’m interested in Artficial Intelligence & Machine Learning. 
+- 🌱 I’m currently Machine Learning.
+- 💞️ I’m looking to collaborate on anything related to AI & ML.
 - 📫 You can reach me at Email(snarsharma.2001@gmail.com), Twitter (@SatishS48728177), Instagram (thesatisharma), LinkedIn(https://www.linkedin.com/in/satish-sharma-35a804173)
 
 <!---
