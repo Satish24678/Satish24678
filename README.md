@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Satish24678
 - 👀 I’m a Data Engineer. 
-- 🌱 I’m currently learing Python.
+- 🌱 I’m currently learing anything and everything related to data.
 - 💞️ I’m looking to collaborate on anything related to Data Science.
 - 📫 You can reach me at Email(snarsharma.2001@gmail.com), Twitter (@SatishS48728177), Instagram (thesatisharma), LinkedIn(https://www.linkedin.com/in/satish-sharma-35a804173)
 
